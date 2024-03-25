@@ -1,5 +1,3 @@
-# random comment
-
 <html>
 <meta charset="utf-8"/>
 <title>Change Backgrounds</title>
@@ -8,7 +6,7 @@
 <head>
 
 </head>
-<body id="img1" background="images/9.jpg">
+<body id="img1" background="images/12.jpg">
 <?php
  
 ini_set("display_errors", "0");
